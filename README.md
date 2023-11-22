@@ -18,6 +18,7 @@ LSTMs are designed to overcome the vanishing gradient problem, allowing them to 
 The memory cell in LSTM architecture(Forget, Input, Output gates) which allows the network to selectively store and retrieve information
 LSTMs can be parallelized during training, which helps in faster convergence compared to traditional RNNs. This is because the computations for different time steps can be performed simultaneously.
 
+![Alt Text](https://github.com/Jagruthi-Sarikonda/Generative_Chatbot_LSTM_Implementation/blob/main/lstm_memory_cell.jpg "LSTM Memory cell")
 
 
 ## Tasks
