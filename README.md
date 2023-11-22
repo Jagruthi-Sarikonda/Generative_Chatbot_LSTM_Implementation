@@ -25,5 +25,5 @@ LSTMs can be parallelized during training, which helps in faster convergence com
     Task 3: Defining Encoder-Decoder model
     Task 4: Model Training
     Task 5: Defining Inference Model
-    Task 6: Testing the OurModel
+    Task 6: Testing the Model
 ```
