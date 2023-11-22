@@ -14,11 +14,17 @@ The encoder outputs a final state vector (memory) which becomes the initial stat
 
 ## Advantages of LSTM(Long Short Term Memory)
 
-LSTMs are designed to overcome the vanishing gradient problem, allowing them to capture long-term dependencies in sequential data
+LSTMs are designed to overcome the vanishing gradient problem, allowing them to capture long-term dependencies in sequential data as they have both Hidden states(h(t)) and Cell states(c(t))
 The memory cell in LSTM architecture(Forget, Input, Output gates) which allows the network to selectively store and retrieve information
 LSTMs can be parallelized during training, which helps in faster convergence compared to traditional RNNs. This is because the computations for different time steps can be performed simultaneously.
 
+<p align="center">
+  <img src="[https://example.com/your-image-url.jpg](https://github.com/Jagruthi-Sarikonda/Generative_Chatbot_LSTM_Implementation/blob/main/lstm_memory_cell.jpg)" alt="LSTM Memory cell">
+</p>
+
+<div style="text-align: center;">
 ![Alt Text](https://github.com/Jagruthi-Sarikonda/Generative_Chatbot_LSTM_Implementation/blob/main/lstm_memory_cell.jpg "LSTM Memory cell")
+</div>
 
 
 ## Tasks
