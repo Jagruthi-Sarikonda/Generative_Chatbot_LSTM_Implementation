@@ -2,6 +2,7 @@
 
 ## Problem Statement
 Building a prototype of (Open Domain)**Generative ChatBot** using (Endoder-Decoder model) **Seq2Seq** architecture with **LSTM** layers using Tensorflow,keras libraries
+**Dataset**: It contains .yml files( containing pairs of different questions and their answers) on varied subjects like history, bot profile, science etc.
 
 ## Introduction to Seq2Seq Architechchure
 
